@@ -122,7 +122,7 @@ EXIT
 ```
 
 ## Collaboration
-Thanks for all the groups contributing to the test:
+Thanks all the following groups for contributing to the test:
 Group 1
 Group 3
 Group 8
