@@ -70,13 +70,13 @@ Command to start the chat server:
 ```
 python secure_chatapp.py
 ```
-![Alt Text](snapshot/server_start.png)
+![Alt Text](snapshot/server_start.png)<img width="100">
 
 Command to start the client:
 ```
 python chat_client.py
 ```
-![Alt Text](snapshot/client_start.png)
+![Alt Text](snapshot/client_start.png)<img width="100">
 
 3. At the client-side terminal, follow the instructions and log in:
 ```
@@ -90,26 +90,26 @@ If login successfully, the following message will display:
 Authentication successful!
 active users: ['c1(c1@s2)]
 ```
-![Alt Text](snapshot/client_auth.png)
+![Alt Text](snapshot/client_auth.png)<img width="100">
 
 4. Use LIST (uppercase only) tp check online users
 ```
 LIST
 ```
-![Alt Text](snapshot/client_list.png)
+![Alt Text](snapshot/client_list.png)<img width="100">
 
 4. Private Message
 - Private text message to individual participant C2 on Server S2
 ```
 @C2@S2 hello
 ```
-![Alt Text](snapshot/client_msg_rcv.png)
+![Alt Text](snapshot/client_msg_rcv.png)<img width="100">
 
 - Group message to everyone in the chatroom
 ```
 Hi everyone
 ```
-![Alt Text](snapshot/client_msg_broadcast.png)
+![Alt Text](snapshot/client_msg_broadcast.png)<img width="100">
 
 5. File transfer
 ```
