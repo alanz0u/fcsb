@@ -34,7 +34,7 @@ List any software or tools needed before installing.
 3. Step 3
 
 ## Usage
-Enter the following command at command line terminal to (You might need to go first to the base directory that contains the Python scripts):
+Enter the following command at terminal:
 1. Set server and client configuration  
 Edit the following options in server_config.yaml:
 ```
