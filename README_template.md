@@ -1,22 +1,20 @@
 # spchatoverlay
 Secure Programming Project 2024
 
+```
 passwords for c1 - c5:
 1. potato
 2. watermelon
 3. banana
 4. coconut
 5. apple
-
-
-
-A good templete to write README
+```
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Collaboration](#collaboration)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
@@ -94,6 +92,12 @@ active users: ['c1(c1@s2)]
 ```
 ![Alt Text](snapshot/client_auth.png)
 
+4. Use LIST (uppercase only) tp check online users
+```
+LIST
+```
+![Alt Text](snapshot/client_list.png)
+
 4. Private Message
 - Private text message to individual participant C2 on Server S2
 ```
@@ -112,10 +116,15 @@ Hi everyone
 FILE @C2@S2 readme.md
 ```
 
-
 6. Exit the chatroom
+```
 EXIT
+```
 
-```python
-# Example code snippet
-print("Hello, World!")
+## Collaboration
+Thanks for all the groups contributing to the test:
+Group 1
+Group 3
+Group 8
+Group 11
+Group 13
