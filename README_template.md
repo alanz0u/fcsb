@@ -2,7 +2,6 @@
 ##### Group Number: 4
 ##### Group Member: Anlan Zou, Czennen Trixter Tamayo, Yan Lok Chan, Yu-Ting Huang
 
-
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,7 +14,7 @@
 
 ## Description
 <!-- A brief description of what the project is, what it does, and why it is useful. -->
-A light weight Command Line Interface chat system based on Python and websocket.
+A light weight Command Line Interface chat system based on Python and WebSocket.
 Features include:
 1. Private text messaging
 2. Group messaging
@@ -124,8 +123,8 @@ EXIT
 
 ## Collaboration
 Thanks all the following groups for contributing to the test:
-Group 1
-Group 3
-Group 8
-Group 11
-Group 13
+Group 1  
+Group 3  
+Group 8  
+Group 11  
+Group 13  
