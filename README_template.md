@@ -1,5 +1,5 @@
 # Secure Programming Project 2024
-##### Group: 4
+##### Group Number: 4
 ##### Group Member: Anlan Zou, Czennen Trixter Tamayo, Yan Lok Chan, Yu-Ting Huang
 
 
