@@ -16,7 +16,7 @@ Features include:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Collaboration](#collaboration)
-- [Test Info](#testinfo)
+- [Test Info](#test-info)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
