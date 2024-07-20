@@ -12,7 +12,6 @@
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - 
-# Project Title
 
 ## Description
 <!-- A brief description of what the project is, what it does, and why it is useful. -->
