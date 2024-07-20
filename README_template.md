@@ -2,6 +2,15 @@
 ##### Group Number: 4
 ##### Group Member: Anlan Zou, Czennen Trixter Tamayo, Yan Lok Chan, Yu-Ting Huang
 
+## Description
+<!-- A brief description of what the project is, what it does, and why it is useful. -->
+A light weight Command Line Interface chat system based on Python and WebSocket.
+Features include:
+1. Private text messaging
+2. Group messaging
+3. File transfer
+4. End-to-end encryption
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,24 +21,6 @@
 - [Acknowledgments](#acknowledgments)
 - 
 
-## Description
-<!-- A brief description of what the project is, what it does, and why it is useful. -->
-A light weight Command Line Interface chat system based on Python and WebSocket.
-Features include:
-1. Private text messaging
-2. Group messaging
-3. File transfer
-4. End-to-end encryption
-
-Available test user accounts:
-```
-passwords for c1 - c5:
-1. potato
-2. watermelon
-3. banana
-4. coconut
-5. apple
-```
 
 ## Installation
 Step-by-step instructions on how to install and set up the project.
@@ -123,8 +114,8 @@ EXIT
 
 ## Collaboration
 Thanks all the following groups for contributing to the test:  
-Group 1  
-Group 3  
+Group 1
+?Group 3
 Group 8  
 Group 11  
-Group 13  
+?Group 13
