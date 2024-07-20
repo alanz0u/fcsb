@@ -16,6 +16,7 @@ Features include:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Collaboration](#collaboration)
+- [Test Info](#testinfo)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
@@ -119,3 +120,5 @@ Group 1
 Group 8  
 Group 11  
 ?Group 13
+
+## Test Info
