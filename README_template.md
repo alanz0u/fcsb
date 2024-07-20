@@ -12,6 +12,15 @@ passwords for c1 - c5:
 
 A good templete to write README
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+- 
 # Project Title
 
 ## Description
@@ -23,14 +32,6 @@ Features include:
 3. File transfer
 4. End-to-end encryption
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 Step-by-step instructions on how to install and set up the project.
@@ -50,15 +51,15 @@ Edit the following options in server_config.yaml:
 ```
 server_name: s1
 chat_server:
-  host: localhost
-  port: 12345
+  host: <local_ip> # same as chat_server>host in client_config.yaml
+  port: <port_number> # same as chat_server>host in client_config.yaml
 exchange_server:
-  host: localhost
-  port: 5555
+  host: <local_ip>
+  port: <port_number> #
 remote_servers:
-  - name: s4
-    host: 127.0.0.1
-    port: 5556
+  - name: <name_of_server>
+    host: <ip_addr_of_remote_server>
+    port: <port_intergroup_chat>
 ```
 Edit the following options in client_config.yaml:
 ```
