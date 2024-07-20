@@ -87,8 +87,10 @@ Enter your password:
 (Example) potato
 ```
 If login successfully, the following message will display:
+```
 Authentication successful!
 active users: ['c1(c1@s2)]
+```
 ![Alt Text](snapshot/client_auth.png)
 
 4. Private Message
