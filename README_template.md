@@ -1,14 +1,7 @@
-# spchatoverlay
-Secure Programming Project 2024
+# Secure Programming Project 2024
+##### Group: 4
+##### Group Member: Anlan Zou, Czennen Trixter Tamayo, Yan Lok Chan, Yu-Ting Huang
 
-```
-passwords for c1 - c5:
-1. potato
-2. watermelon
-3. banana
-4. coconut
-5. apple
-```
 
 ## Table of Contents
 - [Description](#description)
@@ -30,6 +23,15 @@ Features include:
 3. File transfer
 4. End-to-end encryption
 
+Available test user accounts:
+```
+passwords for c1 - c5:
+1. potato
+2. watermelon
+3. banana
+4. coconut
+5. apple
+```
 
 ## Installation
 Step-by-step instructions on how to install and set up the project.
